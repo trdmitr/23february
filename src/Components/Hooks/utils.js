@@ -14,11 +14,13 @@ export const tzitata = (imgLink) => {
     )
   }
   export const audioSource = (linkAuidio, linkName) => {
+    // var audio = document.getElementById("myaudio");
+    // audio.volume = 0.2;
     return (
       <div>
         <p className={linkAuidio ? '' : classes.mediaHidden}>{linkName} </p>
-        <audio controls preload="metadata" className={linkAuidio ? '' : classes.mediaHidden}
-          src={linkAuidio} type="audio/mpeg" volume="0.25"/>
+        <audio id="myaudio" controls preload="metadata" className={linkAuidio ? '' : classes.mediaHidden}
+          src={linkAuidio} type="audio/mpeg" volume={0.5}/>
       </div>
     )
   }
@@ -28,7 +30,7 @@ export const tzitata = (imgLink) => {
         <div>
     <p className={linkVideo ? '' : classes.mediaHidden}>{linkName}</p>
     {linkVideo.includes('youtu.be') ? <ReactPlayer className={linkVideo ? '' 
-    : classes.mediaHidden.join(' ')} id={classes.videoFrame} url={linkVideo} controls={true} origin = {window.location.hostname}/> 
+    : classes.mediaHidden.join(' ')} id={classes.videoFrame} url={linkVideo} controls={true} origin = {window.location.hostname}  volume={0.5}/> 
     :  <video className={[classes.videoBlock, linkVideo ? '' : classes.mediaHidden].join(' ')} src={linkVideo} controls={true} preload="metadata" type="video/mp4" ></video>}
     </div>
     )
