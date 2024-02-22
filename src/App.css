@@ -38,11 +38,12 @@
 }
 .device-iphone-x .device-content {
 	/* background-color: #026873; */
-	background: #B8E1FC;
+	/* background: #B8E1FC;
 		background: -webkit-repeating-linear-gradient(to top, #B8E1FC 0%, #7C7CCF 99%);
 		background: -moz-repeating-linear-gradient(to top, #B8E1FC 0%, #7C7CCF 99%);
-		background: repeating-linear-gradient(to top, #B8E1FC 0%, #7C7CCF 99%);
-	background-image: url("https://sun9-4.userapi.com/impg/KdqyoYFcrZgNU6pQPyMYRoivWqJer2s6X42Q-g/kGjv15dSSrs.jpg?size=513x733&quality=96&sign=de36f1df07fe8e794d1d7efd1dffa2bd&type=album");
+		background: repeating-linear-gradient(to top, #B8E1FC 0%, #7C7CCF 99%); */
+
+	background-image: url("https://trv-axtuba.ru/wp-content/uploads/2024/02/photo_2024-02-21_20-20-37.jpg");
 	background-position: center center;
 	background-size: cover;
 	border-radius: 32px;
