@@ -49,7 +49,8 @@ clip-path: polygon(50% 0%,59.40% 9.22%,73% 6%,77.32% 20.01%,91% 22%,87.16% 37.00
     color: var(--buttonColor);
     background-color: var(--buttonBack);
     /* opacity: 0.7; */
-    box-shadow: var(--buttonShadow)
+    box-shadow: var(--buttonShadow);
+    clip-path: polygon(0% 15%, 15% 12%, 29% 0, 77% 1%, 88% 10%, 100% 24%, 100% 74%, 89% 85%, 85% 100%, 45% 100%, 4% 82%, 0 47%);
   }
   .navLink22 {
     position: absolute;
