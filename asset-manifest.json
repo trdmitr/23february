@@ -1,5 +1,5 @@
 {
-  "main.css": "/23february/static/css/main.995fc1c9.chunk.css",
+  "main.css": "/23february/static/css/main.f5d2ac6a.chunk.css",
   "main.js": "/23february/static/js/main.e8dccc11.chunk.js",
   "main.js.map": "/23february/static/js/main.e8dccc11.chunk.js.map",
   "runtime~main.js": "/23february/static/js/runtime~main.57d26b29.js",
@@ -10,9 +10,9 @@
   "static/js/3.37352ce7.chunk.js": "/23february/static/js/3.37352ce7.chunk.js",
   "static/js/3.37352ce7.chunk.js.map": "/23february/static/js/3.37352ce7.chunk.js.map",
   "index.html": "/23february/index.html",
-  "precache-manifest.c8d0593a9f5c5e657628a860bb061dfe.js": "/23february/precache-manifest.c8d0593a9f5c5e657628a860bb061dfe.js",
+  "precache-manifest.b1b69bbd96409314afb4ee46da58f512.js": "/23february/precache-manifest.b1b69bbd96409314afb4ee46da58f512.js",
   "service-worker.js": "/23february/service-worker.js",
   "static/css/2.d3554d0c.chunk.css.map": "/23february/static/css/2.d3554d0c.chunk.css.map",
-  "static/css/main.995fc1c9.chunk.css.map": "/23february/static/css/main.995fc1c9.chunk.css.map",
+  "static/css/main.f5d2ac6a.chunk.css.map": "/23february/static/css/main.f5d2ac6a.chunk.css.map",
   "static/media/index.css": "/23february/static/media/Peter_Ivanovitsch.e0df83df.ttf"
 }
