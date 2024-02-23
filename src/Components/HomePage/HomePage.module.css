@@ -10,8 +10,9 @@
     /* height: 100%; */
     object-fit: cover;
     font-size: 1px;
-    border: 9px solid white;
+    border: 9px solid var(--buttonBack);
     border-radius: 13em;
+    opacity: 0.9;
   
   }
   
